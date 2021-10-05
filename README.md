@@ -20,8 +20,10 @@ Next up
 
 Nested functions
 
+```
 goo (
     foo(a,   b,   c  );
     foo(aa,  bb,  cc );
     foo(aaa, bbb, ccc);
 )
+```
